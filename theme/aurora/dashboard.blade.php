@@ -145,7 +145,6 @@
       <script>
       window.EnvConfig = {
         serverUrl: '{{ $theme_config['server_url'] }}',
-        licenseKey: '{{ $theme_config['license_key'] }}',
         landPage: '{{ $theme_config['land_page'] }}',
         showRegInvite: '{{ $theme_config['show_reg_invite'] }}',
         appTheme: '{{ $theme_config['app_theme'] }}',
