@@ -11,12 +11,6 @@
       "field_type": "input"
     },
     {
-      "label": "授权码",
-      "placeholder": "请输入授权码",
-      "field_name": "license_key",
-      "field_type": "textarea"
-    },
-    {
       "label": "着陆页",
       "placeholder": "请选择着陆页",
       "field_name": "land_page",
