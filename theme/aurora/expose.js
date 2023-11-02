@@ -1,7 +1,7 @@
 var ExposeConfig = {
   extraMenus: [
     {
-      groupTitle: '其他功能', // 大标题文本 （如需支持多语言，请在zh-CN.js、zh-TW.js、en-US.js中配置多语言文本）
+      groupTitle: '客服', // 大标题文本 （如需支持多语言，请在zh-CN.js、zh-TW.js、en-US.js中配置多语言文本）
       groupLinks: [
         {
           menuTitle: 'Telegram频道', // 标题文本
